@@ -1,6 +1,6 @@
 body{
-    background: -webkit-linear-gradient(left, #0072ff, #00c6ff);
-	font-family: Verdana;
+    background: -webkit-linear-gradient(left, red, purple);
+	font-family: Arial, Helvetica, sans-serif;
 }
 .contact-form{
     background: #fff;
@@ -18,7 +18,7 @@ body{
     border-radius: 6rem;
     width: 11%;
     margin-top: -3%;
-    transform: rotate(29deg);
+    /*transform: rotate(29deg);*/
 }
 .contact-form form{
     padding: 14%;
